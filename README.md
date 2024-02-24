@@ -1,0 +1,2 @@
+# automatic_system_school_rings
+автоматическая система школьных звонков
